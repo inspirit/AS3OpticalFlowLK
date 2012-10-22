@@ -4,7 +4,7 @@ AS3OpticalFlowLK
 AS3 Lucas-Kanade Optical Flow
 
 <pre>
-requires [Apparat Tool](https://github.com/joa/apparat)
+requires [Apparat](https://github.com/joa/apparat)
 or just use precompiled *.swc library
 </pre>
 
